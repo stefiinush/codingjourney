@@ -1,2 +1,2 @@
 # stefania
-First website from LeWagon!
+First website from LeWagon! :)
