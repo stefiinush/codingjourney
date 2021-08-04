@@ -11,7 +11,7 @@ body {
 .container {
     width: 1000px;
     margin: auto;
-    width: vh;
+    height: vh;
 }
 
 .card-white {
@@ -21,7 +21,7 @@ body {
     border-radius: 4px;
     margin: 20px 0px;
     text-align: center;
-    width: vh;
+    height: vh;
 }
 
 .img-circle {
