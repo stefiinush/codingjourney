@@ -20,6 +20,7 @@ body {
     border-radius: 4px;
     margin: 20px 0px;
     text-align: center;
+    height: vh;
 }
 
 .img-circle {
