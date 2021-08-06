@@ -20,8 +20,8 @@ body {
     border-radius: 4px;
     margin: 20px 0px;
     text-align: center;
-    height: 100vh;
 }
+
 
 .img-circle {
   border-radius: 50%;
@@ -32,3 +32,22 @@ body {
   border-radius: 10px;
   box-shadow: 0px 10px 10px rgba(0,0,0,1.1);
 }
+
+.card {
+    width: 200px;
+    border-radius: 3px;
+    border: 5px ridge #5e6572;
+    text-align: center;
+    padding: 30px;
+    background-color: #eef1ef;
+    display: inline-block;
+    align-items: center;
+    margin: 10px;
+
+}
+
+ a {
+  color: #5e6572;
+}
+
+a.hover
